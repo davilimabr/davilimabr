@@ -36,4 +36,4 @@
   
 [si]: <https://bsi.uniriotec.br>
 [unirio]: <http://www.unirio.br>
-[cp2]: <https://www.cp2.g12.br>
+[cp2]: <https://cp2.g12.br/index.php>
