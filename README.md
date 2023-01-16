@@ -6,8 +6,8 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davilimabr&theme=dark&show_icons=true&include_all_commits=true&count_private=true&title_color=55A2F9&icon_color=55A2F9&border_color=111111&text_color=ffffff&border_radius=0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilimabr&langs_count=16&theme=dark&title_color=55A2F9&border_color=111111&layout=compact&text_color=ffffff&border_radius=0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davilimabr&theme=dark&show_icons=true&include_all_commits=true&count_private=true&title_color=55A2F9&icon_color=55A2F9&border_color=111111&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilimabr&langs_count=16&theme=dark&title_color=55A2F9&border_color=111111&layout=compact&text_color=ffffff"/>
 
 <br>
 
