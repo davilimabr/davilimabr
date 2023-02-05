@@ -1,7 +1,7 @@
 
 # Olá, bem vindo ao meu perfil!
 - 👨🏻‍💻Formado pelo [**Colégio Pedro II**][cp2], como Técnico em Desenvolvimento de Sistemas (2018 - 2021)
-- 👨🏻‍🎓Cursando [**Bacharelado em Sistemas de Informação**][si], pela **Universidade Federal do Estado do Rio de Janeiro** ([**UNRIO**][unirio]) (2022-) - 3º Período
+- 👨🏻‍🎓Cursando [**Bacharelado em Sistemas de Informação**][si], pela **Universidade Federal do Estado do Rio de Janeiro** ([**UNRIO**][unirio]) - 3º Período
 - 🔎Buscando emprego ou estágio  
 
 <br>
