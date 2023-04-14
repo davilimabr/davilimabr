@@ -2,7 +2,7 @@
 # Olá, bem vindo ao meu perfil!
 - 👨🏻‍💻Formado pelo [**Colégio Pedro II**][cp2], como Técnico em Desenvolvimento de Sistemas (2018 - 2021)
 - 👨🏻‍🎓Cursando [**Bacharelado em Sistemas de Informação**][si], pela **Universidade Federal do Estado do Rio de Janeiro** ([**UNRIO**][unirio]) - 3º Período
-- 🔎Buscando emprego ou estágio  
+- Estagiando como desenvolvedor back-end na empresa [Icatu Seguros][icatu]. 
 
 <br>
 
@@ -33,3 +33,4 @@
 [si]: <https://bsi.uniriotec.br>
 [unirio]: <http://www.unirio.br>
 [cp2]: <https://cp2.g12.br/index.php>
+[icatu]: <https://www.linkedin.com/company/icatu-seguros/mycompany/verification/>
