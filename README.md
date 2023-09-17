@@ -1,7 +1,7 @@
 
 # Olá, bem vindo ao meu perfil!
 - 👨🏻‍💻Formado pelo [**Colégio Pedro II**][cp2], como Técnico em Desenvolvimento de Sistemas (2018 - 2021)
-- 👨🏻‍🎓Cursando [**Bacharelado em Sistemas de Informação**][si], pela **Universidade Federal do Estado do Rio de Janeiro** ([**UNRIO**][unirio]) - 3º Período
+- 👨🏻‍🎓Cursando [**Bacharelado em Sistemas de Informação**][si], pela **Universidade Federal do Estado do Rio de Janeiro** ([**UNRIO**][unirio]) - 4º Período
 - Estagiando como desenvolvedor back-end na empresa [Icatu Seguros][icatu]. 
 
 <br>
@@ -15,11 +15,10 @@
 
 <h2>Linguagens</h2>
 <div>
-    <img align="center" height="30" width="40" src="https://www.svgrepo.com/download/184143/java.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4">
+    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center"  height="40" width="40" src="https://www.svgrepo.com/download/184143/java.svg">
+    <img align="center" height="40" width="40" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png">
 </div>
 
 <br>
